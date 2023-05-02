@@ -1,0 +1,1 @@
+<?php dynamic_sidebar( 'Beneath Home Banner' ); ?>
